@@ -1,0 +1,65 @@
+.judul{
+	background: #87D1D8;
+	padding: 10px;
+	text-align: center;
+}
+
+a img{
+	width: 70px;
+}
+
+.t{
+	margin-top: 20px;
+}
+
+.b{
+	margin-bottom: 15px;
+}
+
+a{
+	outline: none!important;
+}
+
+a{
+	text-decoration: none;
+}
+
+section{
+	display: block;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.logo{
+	display: inline-block;
+	margin-bottom: 0;
+    font-size: 14px;
+	line-height: 1.428571429;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
+.logo{
+	color: #87D1D8;
+	font-weight: 300;
+	height: 100px;
+	width: 100px;
+}
+
+.menu{
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+
+.logout {
+    position: relative;
+    right: 700px;
+    left: 700px;
+    top: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
